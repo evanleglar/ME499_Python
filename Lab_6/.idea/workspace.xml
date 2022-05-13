@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c84baa-236f-40be-9989-3129732f65d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XzjujBKUd8RJbGalIZ6bQTUtcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.integrate">
+    <configuration name="carbon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Homework2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Homework2/carbon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="integrate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/integrate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab6_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab6_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.integrate" />
+        <item itemvalue="Python.carbon" />
+        <item itemvalue="Python.lab6_examples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c84baa-236f-40be-9989-3129732f65d9" name="Default Changelist" comment="" />
+      <created>1582056041449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582056041449</updated>
+      <workItem from="1582056044328" duration="5552000" />
+      <workItem from="1582484706054" duration="9671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="224" key="GridCell.Tab.0.bottom" timestamp="1582660517828">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1582660517828" />
+    <state width="1238" height="224" key="GridCell.Tab.0.center" timestamp="1582660517818">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1582660517818" />
+    <state width="1238" height="224" key="GridCell.Tab.0.left" timestamp="1582660517814">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1582660517814" />
+    <state width="1238" height="224" key="GridCell.Tab.0.right" timestamp="1582660517825">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1582660517825" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom" timestamp="1582660517837">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom/0.23.1280.725@0.23.1280.725" timestamp="1582660517837" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center" timestamp="1582660517835">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.center/0.23.1280.725@0.23.1280.725" timestamp="1582660517835" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left" timestamp="1582660517834">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.left/0.23.1280.725@0.23.1280.725" timestamp="1582660517834" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right" timestamp="1582660517836">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.right/0.23.1280.725@0.23.1280.725" timestamp="1582660517836" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab_6$integrate.coverage" NAME="integrate Coverage Results" MODIFIED="1582527322793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab_6$carbon.coverage" NAME="carbon Coverage Results" MODIFIED="1582484719611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Homework2" />
+    <SUITE FILE_PATH="coverage/Lab_6$joshes_examples.coverage" NAME="lab6_examples Coverage Results" MODIFIED="1582058208704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a0e3581-6d61-40ab-9591-0e9aaf838f15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Homework4" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwxlR7kQgrcGrmyvCBPvjgsBOm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.audio_gui">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="audio_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audio_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digital_signal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/digital_signal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random-graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/random-graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homework4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lab_8" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lab_8/slider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.audio_gui" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.digital_signal" />
+        <item itemvalue="Python.random-graph" />
+        <item itemvalue="Python.slider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a0e3581-6d61-40ab-9591-0e9aaf838f15" name="Default Changelist" comment="" />
+      <created>1583867608590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583867608590</updated>
+      <workItem from="1583867611310" duration="23916000" />
+      <workItem from="1584374097675" duration="8837000" />
+      <workItem from="1584421660541" duration="25731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1835" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584497000495">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state x="1835" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584497000495" />
+    <state width="1651" height="180" key="GridCell.Tab.0.bottom" timestamp="1585165566941">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1651" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725/1280.-96.1920.1057@0.23.1280.725" timestamp="1585165566941" />
+    <state width="1651" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584486492825" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1583963434387" />
+    <state width="1651" height="180" key="GridCell.Tab.0.center" timestamp="1585165566939">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1651" height="180" key="GridCell.Tab.0.center/0.23.1280.725/1280.-96.1920.1057@0.23.1280.725" timestamp="1585165566939" />
+    <state width="1651" height="180" key="GridCell.Tab.0.center/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584486492823" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1583963434386" />
+    <state width="1651" height="180" key="GridCell.Tab.0.left" timestamp="1585165566931">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1651" height="180" key="GridCell.Tab.0.left/0.23.1280.725/1280.-96.1920.1057@0.23.1280.725" timestamp="1585165566931" />
+    <state width="1651" height="180" key="GridCell.Tab.0.left/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584486492822" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1583963434385" />
+    <state width="1651" height="180" key="GridCell.Tab.0.right" timestamp="1585165566940">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1651" height="180" key="GridCell.Tab.0.right/0.23.1280.725/1280.-96.1920.1057@0.23.1280.725" timestamp="1585165566940" />
+    <state width="1651" height="180" key="GridCell.Tab.0.right/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584486492824" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1583963434386" />
+    <state width="1643" height="336" key="GridCell.Tab.1.bottom" timestamp="1584383587381">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state width="1643" height="336" key="GridCell.Tab.1.bottom/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584383587381" />
+    <state width="1643" height="336" key="GridCell.Tab.1.center" timestamp="1584383587380">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state width="1643" height="336" key="GridCell.Tab.1.center/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584383587380" />
+    <state width="1643" height="336" key="GridCell.Tab.1.left" timestamp="1584383587380">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state width="1643" height="336" key="GridCell.Tab.1.left/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584383587380" />
+    <state width="1643" height="336" key="GridCell.Tab.1.right" timestamp="1584383587381">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state width="1643" height="336" key="GridCell.Tab.1.right/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584383587381" />
+    <state width="842" height="502" key="XDebugger.FullValuePopup" timestamp="1584373772880">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state width="842" height="502" key="XDebugger.FullValuePopup/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584373772880" />
+    <state x="1787" y="106" key="search.everywhere.popup" timestamp="1584301958000">
+      <screen x="1280" y="-96" width="1920" height="1057" />
+    </state>
+    <state x="1787" y="106" key="search.everywhere.popup/0.23.1280.725/1280.-96.1920.1057@1280.-96.1920.1057" timestamp="1584301958000" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Homework4$gui2.coverage" NAME="gui2 Coverage Results" MODIFIED="1584469492008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lab_8" />
+    <SUITE FILE_PATH="coverage/Homework4$digital_signal.coverage" NAME="digital_signal Coverage Results" MODIFIED="1584486080836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

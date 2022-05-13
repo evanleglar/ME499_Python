@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d41f8d4f-7b7d-4e82-ae7f-02496a09ea3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X3Wp5SucymdnZZdnjxTtsjsAUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.compare">
+    <configuration name="compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stuff3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stuff3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stuff4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stuff4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.compare" />
+        <item itemvalue="Python.stuff3" />
+        <item itemvalue="Python.stuff4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d41f8d4f-7b7d-4e82-ae7f-02496a09ea3e" name="Default Changelist" comment="" />
+      <created>1580275437789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580275437789</updated>
+      <workItem from="1580275438966" duration="452000" />
+      <workItem from="1580276022981" duration="22414000" />
+      <workItem from="1580702426778" duration="304000" />
+      <workItem from="1580752023337" duration="8381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1580834286198">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1580834286198" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1580834286197">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1580834286197" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1580834286197">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1580834286197" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1580834286198">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1580834286198" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom" timestamp="1580834286177">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom/0.23.1280.725@0.23.1280.725" timestamp="1580834286177" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center" timestamp="1580834286176">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.center/0.23.1280.725@0.23.1280.725" timestamp="1580834286176" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left" timestamp="1580834286176">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.left/0.23.1280.725@0.23.1280.725" timestamp="1580834286176" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right" timestamp="1580834286177">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.right/0.23.1280.725@0.23.1280.725" timestamp="1580834286177" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab_3$stuff3.coverage" NAME="stuff3 Coverage Results" MODIFIED="1580673180615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab_3$compare.coverage" NAME="compare Coverage Results" MODIFIED="1580760375357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab_3$stuff4.coverage" NAME="stuff4 Coverage Results" MODIFIED="1580594725440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
